@@ -3,12 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0fb2fe01985bf368d920f854fdb982ac",
-"assets/AssetManifest.json": "7e6774b21a644f1692940865d172b619",
+const RESOURCES = {"assets/AssetManifest.bin": "3cb122895819658a76f01bd6857d3cda",
+"assets/AssetManifest.json": "4516adc07ad4fe733c3a7839b97ff942",
 "assets/assets/fonts/Roboto-Regular.ttf": "11eabca2251325cfc5589c9c6fb57b46",
 "assets/assets/html/stripe/Roboto-Regular.ttf": "11eabca2251325cfc5589c9c6fb57b46",
 "assets/assets/html/stripe/stripe_webview.html": "658153ec102b788b3f7e6dec29d832dd",
-"assets/assets/html/stripe/stripe_webview2.html": "83c4267421780da760a800e0f5246bc1",
 "assets/assets/images/png/aboutus.png": "0be6be1276a9c83b0d879d5a60ef66bf",
 "assets/assets/images/png/applepay.png": "0172449011c108180f9d96ddf5a8706e",
 "assets/assets/images/png/appstore.png": "5350813c9c1ff0ade8f12d7268509d24",
@@ -621,9 +620,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "0fb2fe01985bf368d920f854fdb982ac
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "743acf12917bca756c1bc2b220a69d31",
-"/": "743acf12917bca756c1bc2b220a69d31",
-"main.dart.js": "ba3001b7e6fddd8f4324ea0e922c3965",
+"index.html": "eb45adcc57917e02ed4401d400958a82",
+"/": "eb45adcc57917e02ed4401d400958a82",
+"main.dart.js": "1804e4bf7fd026e7396c92eec994f589",
 "manifest.json": "89b3e2664ac5237c47a806367d15e677",
 "splash/img/dark-1x.png": "7d168464345e2430da6ebe4d59d5d9b2",
 "splash/img/dark-2x.png": "38d70b9ad1764bd72a9695ce97d2a0db",
