@@ -28781,11 +28781,11 @@ My(){var s=0,r=A.t(t.H),q
 var $async$My=A.o(function(a,b){if(a===1)return A.p(b,r)
 while(true)switch(s){case 0:if($.ai==null)A.od()
 $.ai.toString
-$.aO1()
-$.AC().a2i("hello-html",new A.aH8(),!0)
 s=2
 return A.u(A.af9(A.aPN("AIzaSyCwiCmP-OOcgizt8bwjEsTf2XGv51_zUjU","1:529781712530:android:98c9b2ca09071a6e30684b",null,null,null,"529781712530","deep--link",null)),$async$My)
-case 2:A.atI(A.b([B.Hj,B.Hk],t.UW))
+case 2:$.aO1()
+$.AC().a2i("hello-html",new A.aH8(),!0)
+A.atI(A.b([B.Hj,B.Hk],t.UW))
 if($.ai==null)A.od()
 $.ai.toString
 q=A.hW("GetStorage").e
